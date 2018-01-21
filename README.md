@@ -1,2 +1,2 @@
-# Gnuplot-and-fftw
-Plot fft with gnuplot
+g++ -lfftw3 fftw_example.cpp -lwiringPi
+

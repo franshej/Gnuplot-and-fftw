@@ -1,0 +1,2 @@
+set zeroaxis 
+plot 'data1.dat' w lines ls 1
